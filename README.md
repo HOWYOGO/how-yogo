@@ -6,12 +6,12 @@
 </div>
 
 -----
-<h4 align="center">너와 내가 만들어 나가는 독특하고, 건강한, 우리만의 레시피 커뮤니티 제작 프로젝트</h4>
+<h4 align="center">너와 내가 만들어 나가는 건강하고,효율적인 우리만의 레시피 공유 사이트 제작 프로젝트</h4>
 
 -----
 ### 목표
 -----
-1. 1인 가구 시대의 도래에 따른, 간단하고, 건강한, 그리고 독특한 레시피 공유 사이트 개발 목표
+1. 1인 가구의 증가에 따른, 간단하고, 건강한, 그리고 독특한 레시피 공유 사이트 개발 목표
 2. Front-end 및 Back-end 개발을 통한 개발 경험 향상
 3. 프로젝트 개발 과정 간 의사소통 능력 향상
 
@@ -21,8 +21,8 @@
 <p align="center">🎨Front-end🎨</p>
 <div align="center">
 <img width="100" alt="그림01" src="https://github.com/how-yogo/.github/assets/34672301/2132bb14-190b-402c-91ba-1fa57ecfa018">
-<img width="100" alt="그림021" src="https://github.com/how-yogo/.github/assets/34672301/1bed0570-95d9-4af3-a30d-cd17af2f7351">
-<img width="100" alt="그림033" src="https://github.com/how-yogo/.github/assets/34672301/25568c3e-883c-4bc4-8b2c-4944da5decfc">
+<img width="100" alt="그림02" src="https://github.com/how-yogo/.github/assets/34672301/25568c3e-883c-4bc4-8b2c-4944da5decfc">
+<img width="100" alt="그림03" src="https://github.com/how-yogo/.github/assets/34672301/1bed0570-95d9-4af3-a30d-cd17af2f7351">
 </div>
 
 ------
@@ -39,23 +39,21 @@
 -----
 <table align="center">
   <tr>
-    <td><img src="https://github.com/how-yogo/.github/assets/34672301/8e1b1e93-2d62-4a09-bd23-f28e651e27bc"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/158564820?v=4"></td>
     <td><img src="https://github.com/how-yogo/.github/assets/34672301/edce1824-701c-4f1a-a1af-5f16a0f88206"></td>
     <td><img src="https://avatars.githubusercontent.com/u/116737926?v=4"</td>
   </tr>
   <tr align="center">
-    <td>한수영 (Team Leader) </td>
+    <td>양희경 (Team Member) </td>
     <td>곽 별 (Team Member) </td>
     <td>조민선 (Team Member) </td>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/158564718?v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/158564820?v=4"></td>
     <td><img src="https://github.com/how-yogo/.github/assets/34672301/54f3cd84-ab5e-4671-b52e-03e6e1a2484b"></td>
   </tr>
   <tr align="center">
     <td>박희수 (Team Member) </td>
-    <td>양희경 (Team Member) </td>
     <td>이기백 (Team Member) </td>
   </tr>
 </table>
